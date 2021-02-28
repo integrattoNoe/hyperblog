@@ -1,5 +1,5 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body{
@@ -10,4 +10,14 @@ ul{
 }
 ul li{
     cursor: pointer;
+}
+
+#footer{
+    min-height: 150px;
+    background-color: darkgrey;
+    color: darkslategrey;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
