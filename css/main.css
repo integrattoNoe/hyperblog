@@ -5,3 +5,9 @@
 body{
     background-color: beige;
 }
+ul{
+    color: red;
+}
+ul li{
+    cursor: pointer;
+}
